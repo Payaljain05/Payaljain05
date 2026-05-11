@@ -67,7 +67,7 @@ Interactive dashboard analyzing £21.4M revenue across 8 countries, 6 products &
 ---
 
 ### 🩺 [Blood_Cancer_Classification](https://github.com/Payaljain05/Blood_Cancer_Classification)
-> **PyTorch · ResNet18 · Scikit-learn · Gradio · Hugging Face **
+> **PyTorch · ResNet18 · Scikit-learn · Gradio · Hugging Face**
 
 ResNet18 deep learning model detecting Acute Lymphoblastic Leukemia (ALL) from blood cell images with 72.2% cancer recall — deployed on Hugging Face Spaces via Gradio.
 
